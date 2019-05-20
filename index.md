@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-I am a third-year Ph.D. candidate at the Chinese University of Hong Kong, under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). My major research interest focuses on applying natural language processing (NLP) techniques in the social media domain. 
+I am a third-year Ph.D. candidate at The Chinese University of Hong Kong, under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). My major research interest focuses on applying natural language processing (NLP) techniques in the social media domain. See [my CV](https://github.com/yuewang-cuhk/yuewang-cuhk.github.io/yuewang-cuhk-CV.pdf) for more details:)
 
 You can contact me via [email](mailto:yuewang@cse.cuhk.edu.hk).
 
@@ -23,12 +23,12 @@ You can contact me via [email](mailto:yuewang@cse.cuhk.edu.hk).
 
 
 ## Publications
-* **Yue Wang**, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu and Shuming Shi. _Topic-Aware Neural Keyphrase Generation for Social Media Language_. Florence, Italy (**ACL 2019**).
+* **Yue Wang**, Jing Li, Hou Pong Chan, Michael R. Lyu, Irwin King and Shuming Shi. _Topic-Aware Neural Keyphrase Generation for Social Media Language_. Florence, Italy (**ACL 2019**).
 * **Yue Wang**, Jing Li, Irwin King, Michael R. Lyu, Shuming Shi. _Microblog Hashtag Generation via Encoding Conversation Contexts_. Minneapolis, USA (**NAACL-HLT 2019**, Oral).
 * Jian Li, **Yue Wang**, Michael R. Lyu, Irwin King. _Code Completion with Neural Attention and Pointer Networks_. Stockholm, Sweden (**IJCAI 2018**, Oral).
 * **Yue Wang**, Zibin Zheng, Michael R. Lyu. _Entropy-based Service Selection with Uncertain QoS for Mobile Cloud Computing_.  Hangzhou, China (**IEEE CIC 2015**). 
 
-## Honors & Awards
+## Selected Awards
 * 2013, National Scholarship awarded by The Ministry of Education, China (Top 1)
 * 2014, 2015, National Endeavor Fellowship awarded by The Ministry of Education, China (Top 3)
 * 2015, Honorable Mention in Mathematical Contest in Modeling

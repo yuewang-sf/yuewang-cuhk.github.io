@@ -59,10 +59,10 @@ You can contact me via [email](mailto:yuewang@cse.cuhk.edu.hk).
 
 ## Some Useful Links
 * Paper Writing:
-  - Yang Liu's CWMT Tutorial \[pdf\](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+  - Yang Liu's 2014 CWMT Tutorial \[[pdf](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)\]
   - Writing Style Advice from [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/static/style.html)
 * [_A report on me_](https://mp.weixin.qq.com/s/f0lpTI4LJPUXmZcIKofDlQ) from an official association at Sun Yat-sen University
 
 ## Hobbies
 * Sports: playing badminton, swimming, hiking
-* Volunteer activities: I am the co-founder of _Batou volunteer association_, Shantou, China. We offer free tutoring for high school students each summer in my hometown. There are more than _1000_ students are served so far.
+* Volunteer activities: I co-founded [_Batou volunteer association_](https://mp.weixin.qq.com/s/42OKBVeQeZw6ujNI35r9jg) (Shantou, China) in summer 2013. We offer free tutoring to high school students each summer in my hometown. More than **1000** students have been served until now.

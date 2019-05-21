@@ -2,6 +2,8 @@
 
 *My homepage is built on [Minimal theme](http://pages-themes.github.io/minimal), which is a Jekyll theme for GitHub Pages.*
 
+View [my homepage](https://yuewang-cuhk.github.io/) for a demo!
+
 
 ## Usage
 

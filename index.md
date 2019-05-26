@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-I am a third-year Ph.D. candidate at The Chinese University of Hong Kong, under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). My major research interest focuses on applying natural language processing (NLP) techniques in the social media domain. See [my CV](https://github.com/yuewang-cuhk/yuewang-cuhk.github.io/blob/master/yuewang-cuhk-CV.pdf) for more details!
+I am a third-year Ph.D. candidate at The Chinese University of Hong Kong, under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). My major research interest focuses on applying natural language processing (NLP) techniques in the social media domain. See [my CV](https://yuewang-cuhk.github.io/yuewang-cuhk-CV.pdf) for more details!
 
 You can contact me via [email](mailto:yuewang@cse.cuhk.edu.hk).
 

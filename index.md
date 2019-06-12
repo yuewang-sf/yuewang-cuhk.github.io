@@ -18,14 +18,13 @@ You can contact me via [email](mailto:yuewang@cse.cuhk.edu.hk).
 ## Experience
 * **Summer 2015**, _Research Intern_, System Group@Microsoft Research Asia. Mentor: Cheng Chen
 * **Spring 2016**, _Visiting Student_, Department of Electrical and Computer Engineering@Brigham Young University. Advisor: [Prof. Brent Nelson](https://ece.byu.edu/faculty/brent_nelson) (Department Chair)
-* **Summer 2017**, _Research Project Collaborator_, Huawei 2012 Lab
 * **Summer 2018**, _Research Intern_, NLP Center@Tencent AI Lab. Mentor: [Dr. Jing Li](https://girlgunner.github.io/jingli/)
 
 
 ## Publications
-* **Yue Wang**, Jing Li, Hou Pong Chan, Michael R. Lyu, Irwin King and Shuming Shi. **Topic-Aware Neural Keyphrase Generation for Social Media Language**. Florence, Italy (**ACL 2019**).
+* **Yue Wang**, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, Shuming Shi. **Topic-Aware Neural Keyphrase Generation for Social Media Language**. Florence, Italy (**ACL 2019**). \[[paper](https://arxiv.org/pdf/1906.03889.pdf)\]\[[code](https://github.com/yuewang-cuhk/TAKG)\]
 * **Yue Wang**, Jing Li, Irwin King, Michael R. Lyu, Shuming Shi. **Microblog Hashtag Generation via Encoding Conversation Contexts**. Minneapolis, USA (**NAACL-HLT 2019**, Oral).  \[[paper](https://www.aclweb.org/anthology/N19-1164)\]\[[code](https://github.com/yuewang-cuhk/HashtagGeneration)\]\[[slide](https://yuewang-cuhk.github.io/file/naacl19_slide.pdf)\]
-* Jian Li, **Yue Wang**, Michael R. Lyu, Irwin King. **Code Completion with Neural Attention and Pointer Networks**. Stockholm, Sweden (**IJCAI 2018**, Oral).
+* Jian Li, **Yue Wang**, Michael R. Lyu, Irwin King. **Code Completion with Neural Attention and Pointer Networks**. Stockholm, Sweden (**IJCAI 2018**, Oral). \[[paper](https://www.ijcai.org/proceedings/2018/0578.pdf)\]
 * **Yue Wang**, Zibin Zheng, Michael R. Lyu. **Entropy-based Service Selection with Uncertain QoS for Mobile Cloud Computing**.  Hangzhou, China (**IEEE CIC 2015**). 
 
 ## Selected Awards

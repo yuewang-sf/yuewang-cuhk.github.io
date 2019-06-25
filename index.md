@@ -5,7 +5,7 @@ layout: default
 # About Me
 I am a third-year Ph.D. candidate at The Chinese University of Hong Kong, under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). My major research interest focuses on applying natural language processing (NLP) techniques in the social media domain. See [my CV](https://yuewang-cuhk.github.io/file/yuewang-cuhk-CV.pdf) for more details!
 
-You can contact me via [email](mailto:yuewang@cse.cuhk.edu.hk).
+You can contact me via [yuewang AT cse DOT cuhk DOT edu DOT hk](mailto:yuewang@cse.cuhk.edu.hk).
 
 ## Research Interests
 * **Language Understanding in Social Media**, especially Hashtag Annotation, Keyphrase Generation
@@ -18,6 +18,7 @@ You can contact me via [email](mailto:yuewang@cse.cuhk.edu.hk).
 ## Experience
 * **Summer 2015**, _Research Intern_, System Group@Microsoft Research Asia. Mentor: Cheng Chen
 * **Spring 2016**, _Visiting Student_, Department of Electrical and Computer Engineering@Brigham Young University. Advisor: [Prof. Brent Nelson](https://ece.byu.edu/faculty/brent_nelson) (Department Chair)
+* **Summer 2017**, _Project Collaborator_, 2012 Lab@Huawei
 * **Summer 2018**, _Research Intern_, NLP Center@Tencent AI Lab. Mentor: [Dr. Jing Li](https://girlgunner.github.io/jingli/)
 
 
@@ -45,7 +46,7 @@ You can contact me via [email](mailto:yuewang@cse.cuhk.edu.hk).
 * Programming Language: Python (most frequently used), C/C++/C#, Java, Matlab, Bash
 * Tools: Linux, Git, Vim, Latex, Deep Learning Frameworks (Pytorch > TensorFlow > Keras)
 * Deep Learning Models: CNN, RNN, Language Model, Seq2seq, Memory Networks, Variational Auto-Encoders
-* Languages: English (IELTS: 6.5), Chinese (Mandarin, Cantonese, Teochew)
+* Languages: English (professional), Chinese (native)
 
 
 ## Teaching Assistance
@@ -61,6 +62,7 @@ You can contact me via [email](mailto:yuewang@cse.cuhk.edu.hk).
 * Paper Writing:
   - Yang Liu's 2014 CWMT Tutorial \[[pdf](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)\]
   - Writing Style Advice from [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/static/style.html)
+  - [Common bugs in writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 * [_A report on me_](https://mp.weixin.qq.com/s/f0lpTI4LJPUXmZcIKofDlQ) from an official association at Sun Yat-sen University
 
 ## Hobbies

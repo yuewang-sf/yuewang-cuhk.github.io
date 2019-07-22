@@ -23,7 +23,7 @@ You can contact me via [yuewang AT cse DOT cuhk DOT edu DOT hk](mailto:yuewang@c
 
 
 ## Publications
-* **Yue Wang**, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, Shuming Shi. **Topic-Aware Neural Keyphrase Generation for Social Media Language**. Florence, Italy (**ACL 2019**). \[[paper](https://arxiv.org/pdf/1906.03889.pdf)\]\[[code](https://github.com/yuewang-cuhk/TAKG)\]
+* **Yue Wang**, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, Shuming Shi. **Topic-Aware Neural Keyphrase Generation for Social Media Language**. Florence, Italy (**ACL 2019**). \[[paper](https://arxiv.org/pdf/1906.03889.pdf)\]\[[code](https://github.com/yuewang-cuhk/TAKG)\]\[[poster](https://yuewang-cuhk.github.io/file/ACL2019_yuewang_final.pdf)\]
 * **Yue Wang**, Jing Li, Irwin King, Michael R. Lyu, Shuming Shi. **Microblog Hashtag Generation via Encoding Conversation Contexts**. Minneapolis, USA (**NAACL-HLT 2019**, Oral).  \[[paper](https://www.aclweb.org/anthology/N19-1164)\]\[[code](https://github.com/yuewang-cuhk/HashtagGeneration)\]\[[slide](https://yuewang-cuhk.github.io/file/naacl19_slide.pdf)\]
 * Jian Li, **Yue Wang**, Michael R. Lyu, Irwin King. **Code Completion with Neural Attention and Pointer Networks**. Stockholm, Sweden (**IJCAI 2018**, Oral). \[[paper](https://www.ijcai.org/proceedings/2018/0578.pdf)\]
 * **Yue Wang**, Zibin Zheng, Michael R. Lyu. **Entropy-based Service Selection with Uncertain QoS for Mobile Cloud Computing**.  Hangzhou, China (**IEEE CIC 2015**). 

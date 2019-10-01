@@ -3,13 +3,19 @@ layout: default
 ---
 
 # About Me
-I am a third-year Ph.D. candidate at The Chinese University of Hong Kong, under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). My major research interest focuses on applying natural language processing (NLP) techniques in the social media domain. See [my CV](https://yuewang-cuhk.github.io/file/yuewang-cuhk-CV.pdf) for more details!
+I am a final year Ph.D. candidate at The Chinese University of Hong Kong, under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). My major research interest lies in the intersection of natural language generation and social media analysis. Please see [my CV](https://yuewang-cuhk.github.io/file/yuewang-cuhk-CV.pdf) for more details!
 
-You can contact me via [yuewang AT cse DOT cuhk DOT edu DOT hk](mailto:yuewang@cse.cuhk.edu.hk).
+I will go into the job market next year. If you are interested in my background, please contact me via [yuewang AT cse DOT cuhk DOT edu DOT hk](mailto:yuewang@cse.cuhk.edu.hk).
 
 ## Research Interests
 * **Language Understanding in Social Media**, especially Hashtag Annotation, Keyphrase Generation
 * **NLP in Code Analysis**, especially Code Completion
+
+## Recent News
+* **30/09/2019**, Join Salesforce Research Asia in Singapore as a research intern
+* **05/09/2019**, Submit one paper to AAAI 2020
+* **27/07/2019**, Attend ACL 2019 in Florence, Italy
+* **30/05/2019**, Attend NAACL 2019 in Minneapolis, USA
 
 ## Education
 * **2016-present**, Ph.D. candidate, The Chinese University of Hong Kong, [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk). Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/)

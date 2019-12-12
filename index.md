@@ -5,15 +5,15 @@ layout: default
 # About Me
 I am a final year Ph.D. candidate at The Chinese University of Hong Kong, under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). My major research interest lies in the intersection of natural language generation and social media analysis. Please see [my CV](https://yuewang-cuhk.github.io/file/yuewang-cuhk-CV.pdf) for more details!
 
-I will go into the job market next year. If you are interested in my background, please contact me via [yuewang AT cse DOT cuhk DOT edu DOT hk](mailto:yuewang@cse.cuhk.edu.hk).
+I will enter the job market in 2020. If you are interested in my background, please contact me: [yuewang AT cse DOT cuhk DOT edu DOT hk](mailto:yuewang@cse.cuhk.edu.hk).
 
 ## Research Interests
 * **Language Understanding in Social Media**, especially Hashtag Annotation, Keyphrase Generation
+* **Vision and language understanding**, especially Multimodal Keyphrase Generation, Visual Dialog
 * **NLP in Code Analysis**, especially Code Completion
 
 ## Recent News
 * **30/09/2019**, Join Salesforce Research Asia in Singapore as a research intern
-* **05/09/2019**, Submit one paper to AAAI 2020
 * **27/07/2019**, Attend ACL 2019 in Florence, Italy
 * **30/05/2019**, Attend NAACL 2019 in Minneapolis, USA
 
@@ -23,10 +23,10 @@ I will go into the job market next year. If you are interested in my background,
 
 ## Experience
 * **Summer 2015**, _Research Intern_, System Group@Microsoft Research Asia. Mentor: Cheng Chen
-* **Spring 2016**, _Visiting Student_, Department of Electrical and Computer Engineering@Brigham Young University. Advisor: [Prof. Brent Nelson](https://ece.byu.edu/faculty/brent_nelson) (Department Chair)
+* **Spring 2016**, _Visiting Student_, Department of Electrical and Computer Engineering@Brigham Young University. Advisor: [Prof. Brent Nelson](https://ece.byu.edu/faculty/brent_nelson)
 * **Summer 2017**, _Project Collaborator_, 2012 Lab@Huawei
 * **Summer 2018**, _Research Intern_, NLP Center@Tencent AI Lab. Mentor: [Dr. Jing Li](https://girlgunner.github.io/jingli/)
-
+* **Summer 2019**, _Research Intern_, Salesforce Research Asia. Mentor: [Prof. Steven Hoi](https://sites.google.com/view/stevenhoi/home) and [Shafiq Rayhan Joty](https://raihanjoty.github.io/)
 
 ## Publications
 * **Yue Wang**, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, Shuming Shi. **Topic-Aware Neural Keyphrase Generation for Social Media Language**. Florence, Italy (**ACL 2019**). \[[paper](https://www.aclweb.org/anthology/P19-1240)\]\[[code](https://github.com/yuewang-cuhk/TAKG)\]\[[poster](https://yuewang-cuhk.github.io/file/ACL2019_yuewang_final.pdf)\]

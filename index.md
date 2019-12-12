@@ -26,7 +26,7 @@ I will enter the job market in 2020. If you are interested in my background, ple
 * **Spring 2016**, _Visiting Student_, Department of Electrical and Computer Engineering@Brigham Young University. Advisor: [Prof. Brent Nelson](https://ece.byu.edu/faculty/brent_nelson)
 * **Summer 2017**, _Project Collaborator_, 2012 Lab@Huawei
 * **Summer 2018**, _Research Intern_, NLP Center@Tencent AI Lab. Mentor: [Dr. Jing Li](https://girlgunner.github.io/jingli/)
-* **Summer 2019**, _Research Intern_, Salesforce Research Asia. Mentor: [Prof. Steven Hoi](https://sites.google.com/view/stevenhoi/home) and [Shafiq Rayhan Joty](https://raihanjoty.github.io/)
+* **Summer 2019**, _Research Intern_, Salesforce Research Asia. Mentor: [Prof. Steven Hoi](https://sites.google.com/view/stevenhoi/home) and [Prof. Shafiq Rayhan Joty](https://raihanjoty.github.io/)
 
 ## Publications
 * **Yue Wang**, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, Shuming Shi. **Topic-Aware Neural Keyphrase Generation for Social Media Language**. Florence, Italy (**ACL 2019**). \[[paper](https://www.aclweb.org/anthology/P19-1240)\]\[[code](https://github.com/yuewang-cuhk/TAKG)\]\[[poster](https://yuewang-cuhk.github.io/file/ACL2019_yuewang_final.pdf)\]

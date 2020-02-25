@@ -3,19 +3,21 @@ layout: default
 ---
 
 # About Me
-I am a final year Ph.D. candidate at The Chinese University of Hong Kong, under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). My major research interest lies in the intersection of natural language generation and social media analysis. Please see [my CV](https://yuewang-cuhk.github.io/file/yuewang-cuhk-CV.pdf) for more details!
+I am a fourth year Ph.D. candidate at The Chinese University of Hong Kong, under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). My major research interest lies in the intersection of natural language generation and social media analysis. Please see [my CV](https://yuewang-cuhk.github.io/file/yuewang-cuhk-CV.pdf) for more details!
 
-I will enter the job market in 2020. If you are interested in my background, please contact me: [yuewang AT cse DOT cuhk DOT edu DOT hk](mailto:yuewang@cse.cuhk.edu.hk).
+I will enter the job market soon. If you are interested in my background, please contact me: [yuewang AT cse DOT cuhk DOT edu DOT hk](mailto:yuewang@cse.cuhk.edu.hk).
 
 ## Research Interests
+* In general, Deep Learning, Machine Learning, Natural Language Processing
 * **Language Understanding in Social Media**, especially Hashtag Annotation, Keyphrase Generation
 * **Vision and language understanding**, especially Multimodal Keyphrase Generation, Visual Dialog
-* **NLP in Code Analysis**, especially Code Completion
+
 
 ## Recent News
-* **30/09/2019**, Join Salesforce Research Asia in Singapore as a research intern
-* **27/07/2019**, Attend ACL 2019 in Florence, Italy
-* **30/05/2019**, Attend NAACL 2019 in Minneapolis, USA
+* (upcomming) I will join Amazon AWS AI as an applied scientist intern in summer 2020 
+* **30/09/2019**, join Salesforce Research Aisa in Singapore as a research intern
+* **27/07/2019**, attend ACL 2019 in Florence, Italy
+* **30/05/2019**, attend NAACL 2019 in Minneapolis, USA
 
 ## Education
 * **2016-present**, Ph.D. candidate, The Chinese University of Hong Kong, [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk). Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/)
@@ -29,6 +31,7 @@ I will enter the job market in 2020. If you are interested in my background, ple
 * **Summer 2019**, _Research Intern_, Salesforce Research Asia. Mentor: [Prof. Steven Hoi](https://sites.google.com/view/stevenhoi/home) and [Prof. Shafiq Rayhan Joty](https://raihanjoty.github.io/)
 
 ## Publications
+* **Yue Wang**, Steven Hoi, Shafiq Rayhan Joty, Michael R. Lyu, and Irwin King **VD-BERT: Vision and Dialog Transformer with BERT for Visual Dialog**. (under review, our VD-BERT ranks **No.1** in the [Visual Dialog leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/161/leaderboard/483)).
 * **Yue Wang**, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, Shuming Shi. **Topic-Aware Neural Keyphrase Generation for Social Media Language**. Florence, Italy (**ACL 2019**). \[[paper](https://www.aclweb.org/anthology/P19-1240)\]\[[code](https://github.com/yuewang-cuhk/TAKG)\]\[[poster](https://yuewang-cuhk.github.io/file/ACL2019_yuewang_final.pdf)\]
 * **Yue Wang**, Jing Li, Irwin King, Michael R. Lyu, Shuming Shi. **Microblog Hashtag Generation via Encoding Conversation Contexts**. Minneapolis, USA (**NAACL-HLT 2019**, Oral).  \[[paper](https://www.aclweb.org/anthology/N19-1164)\]\[[code](https://github.com/yuewang-cuhk/HashtagGeneration)\]\[[slide](https://yuewang-cuhk.github.io/file/naacl19_slide.pdf)\]
 * Jian Li, **Yue Wang**, Michael R. Lyu, Irwin King. **Code Completion with Neural Attention and Pointer Networks**. Stockholm, Sweden (**IJCAI 2018**, Oral). \[[paper](https://www.ijcai.org/proceedings/2018/0578.pdf)\]\[[slide](https://yuewang-cuhk.github.io/file/ijcai18_slide.pdf)\]
@@ -44,7 +47,8 @@ I will enter the job market in 2020. If you are interested in my background, ple
 
 ## Review Services
 \* denotes being a Reviewer, otherwise being a Subreviewer:
-* 2019: AAAI\*, NAACL, ACL, DSN 
+* 2020: AAAI\*, DSN, ACL
+* 2019: AAAI\*, EMNLP\*, NAACL, ACL, DSN 
 * 2018: EMNLP, IJCAI, IJCNN, ISSRE 
 * 2017: NIPS, SIGIR
 

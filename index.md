@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-I am a fourth year Ph.D. candidate at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) with an outstanding student honor. My major research interest lies in the intersection of *natural language generation* and *social media analysis*, as well as the *vision-language understanding*. Please see [my CV](https://yuewang-cuhk.github.io/file/yuewang-cuhk-CV.pdf) for more details!
+I am a fourth year Ph.D. candidate at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) with an outstanding student honor. My major research interest lies in the intersection of *natural language generation* and *social media analysis*, as well as the *vision-language understanding*. 
 
 I will enter the job market soon. If you are interested in my background, please contact me: [yuewang AT cse DOT cuhk DOT edu DOT hk](mailto:yuewang@cse.cuhk.edu.hk).
 
@@ -16,7 +16,7 @@ I will enter the job market soon. If you are interested in my background, please
 ## Recent News
 * I am maintaining a repo of a curated reading list about [vision-language pretraining papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 * **Upcoming**, I will join Amazon AWS AI as an applied scientist intern in Summer 2020 
-* **30/09/2019**, join Salesforce Research Aisa in Singapore as a research intern
+* **30/09/2019**, join Salesforce Research in Singapore as a research intern
 * **27/07/2019**, attend ACL 2019 in Florence, Italy
 * **30/05/2019**, attend NAACL 2019 in Minneapolis, USA
 

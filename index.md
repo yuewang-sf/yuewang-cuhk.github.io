@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-I am a fourth year Ph.D. candidate at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) with an outstanding student honor. My major research interest lies in the intersection of *natural language generation* and *social media analysis*, as well as the *vision-language understanding*. 
+I am a final year Ph.D. candidate at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) with an outstanding student honor. My major research interest lies in the intersection of *natural language generation* and *social media analysis*, as well as the *vision-language understanding*. See my [Google scholar](https://scholar.google.com/citations?user=iyxbtcEAAAAJ&hl=en) for more details.
 
 I will enter the job market soon. If you are interested in my background, please contact me: [yuewang AT cse DOT cuhk DOT edu DOT hk](mailto:yuewang@cse.cuhk.edu.hk).
 
@@ -48,14 +48,14 @@ I will enter the job market soon. If you are interested in my background, please
 
 ## Review Services
 \* denotes being a Reviewer, otherwise being a Subreviewer:
-* 2020: AAAI\*, TKDE\*, DSN, ACL
+* 2020: AAAI\*, TKDE\*, TIST\*, DSN, ACL, COLING, ICONIP
 * 2019: AAAI\*, EMNLP\*, NAACL, ACL, DSN 
 * 2018: EMNLP, IJCAI, IJCNN, ISSRE 
 * 2017: NIPS, SIGIR
 
 ## Skills
 * Programming Language: Python (most frequently used), C/C++/C#, Java, Matlab, Bash
-* Tools: Linux, Git, Vim, Latex, Google Cloud Platform,  Deep Learning Frameworks (Pytorch > Keras > TensorFlow)
+* Tools: Linux, Git, Vim, Latex, Google Cloud Platform, AWS, Deep Learning Frameworks (Pytorch > Keras > TensorFlow)
 * Deep Learning Models: CNN, RNN, Transformer, BERT, Seq2seq, Memory Networks, Variational Auto-Encoders
 * Languages: English (professional), Chinese (native), Cantonese (basic)
 
@@ -74,6 +74,7 @@ I will enter the job market soon. If you are interested in my background, please
   - Yang Liu's 2014 CWMT Tutorial \[[pdf](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)\]
   - Writing Style Advice from [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/static/style.html)
   - [Common bugs in writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
+* [How to write a godd rebuttal?](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)  
 * [_A report on me_](https://mp.weixin.qq.com/s/f0lpTI4LJPUXmZcIKofDlQ) from an official association at Sun Yat-sen University
 
 ## Hobbies

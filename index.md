@@ -14,8 +14,9 @@ I will enter the job market soon. If you are interested in my background, please
 
 
 ## Recent News
+* **15/09/2019**, two long papers are accepted by **EMNLP 2020**
 * I am maintaining a repo of a curated reading list about [vision-language pretraining papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
-* **Upcoming**, I will join Amazon AWS AI as an applied scientist intern in Summer 2020 
+* **Upcoming**, I will join Amazon AWS AI as an applied scientist intern
 * **30/09/2019**, join Salesforce Research in Singapore as a research intern
 * **27/07/2019**, attend ACL 2019 in Florence, Italy
 * **30/05/2019**, attend NAACL 2019 in Minneapolis, USA
@@ -32,7 +33,8 @@ I will enter the job market soon. If you are interested in my background, please
 * **Summer 2019**, _Research Intern_, Salesforce Research Asia. Mentor: [Prof. Steven Hoi](https://sites.google.com/view/stevenhoi/home) and [Prof. Shafiq Rayhan Joty](https://raihanjoty.github.io/)
 
 ## Publications
-* **Yue Wang**, Shafiq Joty, Michael R. Lyu, Irwin King, Caiming Xiong, and Steven C.H. Hoi. **VD-BERT: A Unified Vision and Dialog Transformer with BERT**. (arXiv preprints, our VD-BERT has been ranked **No.1** in the [Visual Dialog leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/161/leaderboard/483) for **more than five months** so far).\[[paper](https://arxiv.org/abs/2004.13278)\]\[[media](https://zhuanlan.zhihu.com/p/141605303)\]
+* **Yue Wang**, Shafiq Joty, Michael R. Lyu, Irwin King, Caiming Xiong, and Steven C.H. Hoi. **VD-BERT: A Unified Vision and Dialog Transformer with BERT**. (**EMNLP 2020**, our VD-BERT has been ranked **No.1** in the [Visual Dialog leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/161/leaderboard/483) from 01/2020-05/2020).\[[paper](https://arxiv.org/abs/2004.13278)\]\[[media](https://zhuanlan.zhihu.com/p/141605303)\]
+* **Yue Wang**, Jing Li, Michael Lyu and Irwin King. **Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings**. (**EMNLP2020**)
 * **Yue Wang**, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, Shuming Shi. **Topic-Aware Neural Keyphrase Generation for Social Media Language**. Florence, Italy (**ACL 2019**). \[[paper](https://www.aclweb.org/anthology/P19-1240)\]\[[code](https://github.com/yuewang-cuhk/TAKG)\]\[[poster](https://yuewang-cuhk.github.io/file/ACL2019_yuewang_final.pdf)\]
 * **Yue Wang**, Jing Li, Irwin King, Michael R. Lyu, Shuming Shi. **Microblog Hashtag Generation via Encoding Conversation Contexts**. Minneapolis, USA (**NAACL-HLT 2019**, Oral).  \[[paper](https://www.aclweb.org/anthology/N19-1164)\]\[[code](https://github.com/yuewang-cuhk/HashtagGeneration)\]\[[slide](https://yuewang-cuhk.github.io/file/naacl19_slide.pdf)\]
 * Jian Li, **Yue Wang**, Michael R. Lyu, Irwin King. **Code Completion with Neural Attention and Pointer Networks**. Stockholm, Sweden (**IJCAI 2018**, Oral). \[[paper](https://www.ijcai.org/proceedings/2018/0578.pdf)\]\[[slide](https://yuewang-cuhk.github.io/file/ijcai18_slide.pdf)\]

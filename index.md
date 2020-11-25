@@ -3,17 +3,16 @@ layout: default
 ---
 
 # About Me
-I am a final year Ph.D. candidate at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) with an outstanding student honor. My major research interest lies in the intersection of *natural language generation* and *social media analysis*, as well as the *vision-language understanding*. See my [Google scholar](https://scholar.google.com/citations?user=iyxbtcEAAAAJ&hl=en) for more details.
-
-I will enter the job market soon. If you are interested in my background, please contact me: [yuewang AT cse DOT cuhk DOT edu DOT hk](mailto:yuewang@cse.cuhk.edu.hk).
+I am a final year Ph.D. candidate at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) with an outstanding student honor. My research interest focuses on applying *natural language processing* (NLP) techniques for social media understanding via *keyphrase generation*, as well as its intersection with *computer vision* (CV), e.g., the visual dialog tasks. See my [Google scholar](https://scholar.google.com/citations?user=iyxbtcEAAAAJ&hl=en) for more details. My Email: [wangyue2714@gmail.com](mailto:wangyue2714@gmail.com).
 
 ## Research Interests
 * In general: Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
 * **Language Understanding in Social Media**: Hashtag Annotation, Keyphrase Generation
-* **Vision and Language Understanding**: Visual Dialog, Vision-Language Pretraining
+* **Vision and Language Understanding**: Visual Dialog, Vision-Language Pretraining, Cross-media Understanding
 
 
 ## Recent News
+* **24/11/2020**, our cross-media keyphrase prediction (CMKP) code has been released at [here](https://github.com/yuewang-cuhk/CMKP)
 * **08/10/2020**, our VD-BERT code has been released at [here](https://github.com/salesforce/VD-BERT)
 * **15/09/2020**, two long papers are accepted by **EMNLP 2020**
 * I am maintaining a repo of a curated reading list about [vision-language pretraining papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
@@ -27,11 +26,12 @@ I will enter the job market soon. If you are interested in my background, please
 * **2012-2016**, B.Sci., Sun Yat-sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/). GPA: 3.94/4.00 (**Top 3**)
 
 ## Experience
-* **Summer 2015**, _Research Intern_, System Group@Microsoft Research Asia. Mentor: Cheng Chen
-* **Spring 2016**, _Visiting Student_, Department of Electrical and Computer Engineering@Brigham Young University. Advisor: [Prof. Brent Nelson](https://ece.byu.edu/faculty/brent_nelson)
-* **Summer 2017**, _Project Collaborator_, 2012 Lab@Huawei
-* **Summer 2018**, _Research Intern_, NLP Center@Tencent AI Lab. Mentor: [Prof. Jing Li](http://www4.comp.polyu.edu.hk/~jing1li/)
-* **Summer 2019**, _Research Intern_, Salesforce Research Asia. Mentor: [Prof. Steven Hoi](https://sites.google.com/view/stevenhoi/home) and [Prof. Shafiq Rayhan Joty](https://raihanjoty.github.io/)
+* **Summer 2015**, _Research Intern_, System Group@Microsoft Research Asia, Beijing. Mentor: Cheng Chen
+* **Spring 2016**, _Visiting Student_, Department of Electrical and Computer Engineering@Brigham Young University, Utah, USA. Advisor: [Prof. Brent Nelson](https://ece.byu.edu/faculty/brent_nelson)
+* **Summer 2017**, _Project Collaborator_, 2012 Lab@Huawei, Shenzhen
+* **Summer 2018**, _Research Intern_, NLP Center@Tencent AI Lab, Shenzhen. Mentor: [Prof. Jing Li](http://www4.comp.polyu.edu.hk/~jing1li/)
+* **Summer 2019**, _Research Intern_, Salesforce Research Asia, Singapore. Mentor: [Prof. Steven Hoi](https://sites.google.com/view/stevenhoi/home) and [Prof. Shafiq Rayhan Joty](https://raihanjoty.github.io/)
+* **Summer 2020**, _Applied Scientist Intern_, Amazon AWS AI Lab, California, USA. Mentor: [Marcello Federico](https://sites.google.com/site/marcellofedericohome/) and Hoang Cuong
 
 ## Publications 
 * **Yue Wang**, Shafiq Joty, Michael R. Lyu, Irwin King, Caiming Xiong, and Steven C.H. Hoi. **VD-BERT: A Unified Vision and Dialog Transformer with BERT**. (**EMNLP 2020**, our VD-BERT has been ranked **No.1** in the [Visual Dialog leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/161/leaderboard/483) from 01/2020-05/2020).\[[paper](https://arxiv.org/abs/2004.13278)\]\[[code](https://github.com/salesforce/VD-BERT)\]\[[slide](https://yuewang-cuhk.github.io/file/vdbert_emnlp20_yue_resize.pdf)\]\[[zhihu](https://zhuanlan.zhihu.com/p/141605303)\]\[[video](https://virtual.2020.emnlp.org/paper_main.355.html)\]
@@ -51,7 +51,7 @@ I will enter the job market soon. If you are interested in my background, please
 
 ## Review Services
 \* denotes being a Reviewer, otherwise being a Subreviewer:
-* 2020: AAAI\*, TKDE\*, TIST\*, DSN, ACL, COLING, ICONIP
+* 2020: AAAI\*, TKDE\*, TIST\*, COLING\*, ICONIP\*, DSN, ACL
 * 2019: AAAI\*, EMNLP\*, NAACL, ACL, DSN 
 * 2018: EMNLP, IJCAI, IJCNN, ISSRE 
 * 2017: NIPS, SIGIR

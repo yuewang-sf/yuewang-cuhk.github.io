@@ -12,6 +12,7 @@ I am a final year Ph.D. candidate at [The Chinese University of Hong Kong](http:
 
 
 ## Recent News
+* **01/12/2020**, I have passed my PHD oral thesis defense! The presentation slide is released at [here](https://yuewang-cuhk.github.io/file/thesis_slide_Yue_final_resize.pdf)
 * **24/11/2020**, our cross-media keyphrase prediction (CMKP) code has been released at [here](https://github.com/yuewang-cuhk/CMKP)
 * **08/10/2020**, our VD-BERT code has been released at [here](https://github.com/salesforce/VD-BERT)
 * **15/09/2020**, two long papers are accepted by **EMNLP 2020**

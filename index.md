@@ -3,27 +3,27 @@ layout: default
 ---
 
 # About Me
-I am a final year Ph.D. candidate at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).  Before that, I obtained my B.Sci. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) with an outstanding student honor. My research interest focuses on applying *natural language processing* (NLP) techniques for social media understanding via *keyphrase generation*, as well as its intersection with *computer vision* (CV), e.g., the visual dialog tasks. See my [Google scholar](https://scholar.google.com/citations?user=iyxbtcEAAAAJ&hl=en) for more details. My Email: [wangyue2714@gmail.com](mailto:wangyue2714@gmail.com).
+I am an applied scientist as Salesforce Research. Prior to that, I obtained my Ph.D. degree at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/). My research interest focuses on applying *natural language processing* (NLP) techniques for better social media understanding as well as the intersection of NLP and *Computer Vision* (CV), e.g., multi-modal pretraining. See my [Google scholar](https://scholar.google.com/citations?user=iyxbtcEAAAAJ&hl=en) for more details. My Email: [wangyue2714@gmail.com](mailto:wangyue2714@gmail.com).
 
 ## Research Interests
 * In general: Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
-* **Language Understanding in Social Media**: Hashtag Annotation, Keyphrase Generation
+* **Social Media Analysis**: Hashtag Annotation, Keyphrase Generation
 * **Vision and Language Understanding**: Visual Dialog, Vision-Language Pretraining, Cross-media Understanding
 
 
 ## Recent News
+* **Jan 2021**, join Salesforce Research Singapore as an applied scientist
 * **01/12/2020**, I have passed my PHD oral thesis defense! The presentation slide is released at [here](https://yuewang-cuhk.github.io/file/thesis_slide_Yue_final_resize.pdf)
 * **24/11/2020**, our cross-media keyphrase prediction (CMKP) code has been released at [here](https://github.com/yuewang-cuhk/CMKP)
 * **08/10/2020**, our VD-BERT code has been released at [here](https://github.com/salesforce/VD-BERT)
 * **15/09/2020**, two long papers are accepted by **EMNLP 2020**
 * I am maintaining a repo of a curated reading list about [vision-language pretraining papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
-* **Upcoming**, I will join Amazon AWS AI as an applied scientist intern
-* **30/09/2019**, join Salesforce Research in Singapore as a research intern
+* **30/09/2019**, join Salesforce Research Singapore as a research intern
 * **27/07/2019**, attend ACL 2019 in Florence, Italy
 * **30/05/2019**, attend NAACL 2019 in Minneapolis, USA
 
 ## Education
-* **2016-present**, Ph.D. candidate, The Chinese University of Hong Kong, [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk). Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/)
+* **2016-2020**, Ph.D. candidate, The Chinese University of Hong Kong, [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk). Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/)
 * **2012-2016**, B.Sci., Sun Yat-sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/). GPA: 3.94/4.00 (**Top 3**)
 
 ## Experience

@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-I am an applied scientist as Salesforce Research. Prior to that, I obtained my Ph.D. degree at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/). My research interest focuses on applying *natural language processing* (NLP) techniques for better social media understanding as well as the intersection of NLP and *Computer Vision* (CV), e.g., multi-modal pretraining. See my [Google scholar](https://scholar.google.com/citations?user=iyxbtcEAAAAJ&hl=en) for more details. My Email: [wangyue2714@gmail.com](mailto:wangyue2714@gmail.com).
+I am an applied scientist at Salesforce Research. Prior to that, I obtained my Ph.D. degree at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/). My research interest focuses on applying *natural language processing* (NLP) techniques for better social media understanding as well as the intersection of NLP and *Computer Vision* (CV), e.g., multi-modal pretraining. See my [Google scholar](https://scholar.google.com/citations?user=iyxbtcEAAAAJ&hl=en) for more details. My Email: [wangyue2714@gmail.com](mailto:wangyue2714@gmail.com).
 
 ## Research Interests
 * In general: Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
@@ -17,7 +17,7 @@ I am an applied scientist as Salesforce Research. Prior to that, I obtained my P
 * **24/11/2020**, our cross-media keyphrase prediction (CMKP) code has been released at [here](https://github.com/yuewang-cuhk/CMKP)
 * **08/10/2020**, our VD-BERT code has been released at [here](https://github.com/salesforce/VD-BERT)
 * **15/09/2020**, two long papers are accepted by **EMNLP 2020**
-* I am maintaining a repo of a curated reading list about [vision-language pretraining papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
+* **June 2020**, I am maintaining a repo of a curated reading list about [vision-language pretraining papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 * **30/09/2019**, join Salesforce Research Singapore as a research intern
 * **27/07/2019**, attend ACL 2019 in Florence, Italy
 * **30/05/2019**, attend NAACL 2019 in Minneapolis, USA

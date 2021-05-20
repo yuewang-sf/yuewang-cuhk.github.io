@@ -12,7 +12,8 @@ I am an applied scientist at Salesforce Research. Prior to that, I obtained my P
 
 
 ## Recent News
-* **Jan 2021**, join Salesforce Research Singapore as an applied scientist
+* **April 2021**, research work during Amazon AI internship has been accepted by NAACL 2021 and ICASSP 2021
+* **Jan 2021**, join Salesforce Research Asia as an Applied Scientist
 * **01/12/2020**, I have passed my PHD oral thesis defense! The presentation slide is released at [here](https://yuewang-cuhk.github.io/file/thesis_slide_Yue_final_resize.pdf)
 * **24/11/2020**, our cross-media keyphrase prediction (CMKP) code has been released at [here](https://github.com/yuewang-cuhk/CMKP)
 * **08/10/2020**, our VD-BERT code has been released at [here](https://github.com/salesforce/VD-BERT)
@@ -35,6 +36,8 @@ I am an applied scientist at Salesforce Research. Prior to that, I obtained my P
 * **Summer 2020**, _Applied Scientist Intern_, Amazon AWS AI Lab, California, USA. Mentor: [Marcello Federico](https://sites.google.com/site/marcellofedericohome/) and Hoang Cuong
 
 ## Publications 
+* **Yue Wang**, Cuong Hoang, and Marcello Federico. "Towards Modeling the Style of Translators in Neural Machine Translation". (**NAACL 2021**) \[[paper](https://www.amazon.science/publications/towards-modeling-the-style-of-translators-in-neural-machine-translation)\]
+* Surafel M Lakew, Marcello Federico, **Yue Wang**, Cuong Hoang, Yogesh Virkar, Roberto Barra-Chicote, Robert Enyedi. "Machine Translation Verbosity Control for Automatic Dubbing". (**ICASSP 2021**) \[[paper](https://ieeexplore.ieee.org/abstract/document/9414411)\]
 * **Yue Wang**, Shafiq Joty, Michael R. Lyu, Irwin King, Caiming Xiong, and Steven C.H. Hoi. **VD-BERT: A Unified Vision and Dialog Transformer with BERT**. (**EMNLP 2020**, our VD-BERT has been ranked **No.1** in the [Visual Dialog leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/161/leaderboard/483) from 01/2020-05/2020).\[[paper](https://arxiv.org/abs/2004.13278)\]\[[code](https://github.com/salesforce/VD-BERT)\]\[[slide](https://yuewang-cuhk.github.io/file/vdbert_emnlp20_yue_resize.pdf)\]\[[zhihu](https://zhuanlan.zhihu.com/p/141605303)\]\[[video](https://virtual.2020.emnlp.org/paper_main.355.html)\]
 * **Yue Wang**, Jing Li, Michael Lyu and Irwin King. **Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings**. (**EMNLP2020**)\[[paper](https://arxiv.org/abs/2011.01565)\]\[[code](https://github.com/yuewang-cuhk/CMKP)\]\[[slide](https://yuewang-cuhk.github.io/file/cmkp_emnlp20_yue_resize.pdf)\]\[[video](https://virtual.2020.emnlp.org/paper_main.3088.html)\]
 * **Yue Wang**, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, Shuming Shi. **Topic-Aware Neural Keyphrase Generation for Social Media Language**. Florence, Italy (**ACL 2019**). \[[paper](https://www.aclweb.org/anthology/P19-1240)\]\[[code](https://github.com/yuewang-cuhk/TAKG)\]\[[poster](https://yuewang-cuhk.github.io/file/ACL2019_yuewang_final.pdf)\]

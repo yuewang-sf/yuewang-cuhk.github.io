@@ -17,7 +17,7 @@ I am an applied scientist at Salesforce Research. Prior to that, I obtained my P
 * **01/12/2020**, I have passed my PHD oral thesis defense! The presentation slide is released at [here](https://yuewang-cuhk.github.io/file/thesis_slide_Yue_final_resize.pdf)
 * **24/11/2020**, our cross-media keyphrase prediction (CMKP) code has been released at [here](https://github.com/yuewang-cuhk/CMKP)
 * **08/10/2020**, our VD-BERT code has been released at [here](https://github.com/salesforce/VD-BERT)
-* **15/09/2020**, two long papers are accepted by **EMNLP 2020**
+* **15/09/2020**, two long papers are accepted by EMNLP 2020
 * **June 2020**, I am maintaining a repo of a curated reading list about [vision-language pretraining papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 * **30/09/2019**, join Salesforce Research Singapore as a research intern
 * **27/07/2019**, attend ACL 2019 in Florence, Italy
@@ -25,7 +25,7 @@ I am an applied scientist at Salesforce Research. Prior to that, I obtained my P
 
 ## Education
 * **2016-2020**, Ph.D. candidate, The Chinese University of Hong Kong, [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk). Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/)
-* **2012-2016**, B.Sci., Sun Yat-sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/). GPA: 3.94/4.00 (**Top 3**)
+* **2012-2016**, B.Sci., Sun Yat-sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/). GPA: 3.94/4.00 (Top 3)
 
 ## Experience
 * **Summer 2015**, _Research Intern_, System Group@Microsoft Research Asia, Beijing. Mentor: Cheng Chen
@@ -36,9 +36,9 @@ I am an applied scientist at Salesforce Research. Prior to that, I obtained my P
 * **Summer 2020**, _Applied Scientist Intern_, Amazon AWS AI Lab, California, USA. Mentor: [Marcello Federico](https://sites.google.com/site/marcellofedericohome/) and Hoang Cuong
 
 ## Publications 
-* **Yue Wang**, Cuong Hoang, and Marcello Federico. "Towards Modeling the Style of Translators in Neural Machine Translation". (**NAACL 2021**) \[[paper](https://www.amazon.science/publications/towards-modeling-the-style-of-translators-in-neural-machine-translation)\]
-* Surafel M Lakew, Marcello Federico, **Yue Wang**, Cuong Hoang, Yogesh Virkar, Roberto Barra-Chicote, Robert Enyedi. "Machine Translation Verbosity Control for Automatic Dubbing". (**ICASSP 2021**) \[[paper](https://ieeexplore.ieee.org/abstract/document/9414411)\]
-* **Yue Wang**, Shafiq Joty, Michael R. Lyu, Irwin King, Caiming Xiong, and Steven C.H. Hoi. **VD-BERT: A Unified Vision and Dialog Transformer with BERT**. (**EMNLP 2020**, our VD-BERT has been ranked **No.1** in the [Visual Dialog leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/161/leaderboard/483) from 01/2020-05/2020).\[[paper](https://arxiv.org/abs/2004.13278)\]\[[code](https://github.com/salesforce/VD-BERT)\]\[[slide](https://yuewang-cuhk.github.io/file/vdbert_emnlp20_yue_resize.pdf)\]\[[zhihu](https://zhuanlan.zhihu.com/p/141605303)\]\[[video](https://virtual.2020.emnlp.org/paper_main.355.html)\]
+* **Yue Wang**, Cuong Hoang, and Marcello Federico. "**Towards Modeling the Style of Translators in Neural Machine Translation**". (**NAACL 2021**) \[[paper](https://www.amazon.science/publications/towards-modeling-the-style-of-translators-in-neural-machine-translation)\]
+* Surafel M Lakew, Marcello Federico, **Yue Wang**, Cuong Hoang, Yogesh Virkar, Roberto Barra-Chicote, Robert Enyedi. "**Machine Translation Verbosity Control for Automatic Dubbing**". (**ICASSP 2021**) \[[paper](https://ieeexplore.ieee.org/abstract/document/9414411)\]
+* **Yue Wang**, Shafiq Joty, Michael R. Lyu, Irwin King, Caiming Xiong, and Steven C.H. Hoi. **VD-BERT: A Unified Vision and Dialog Transformer with BERT**. (**EMNLP 2020**, our VD-BERT has been ranked No.1 in the [Visual Dialog leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/161/leaderboard/483) from 01/2020-05/2020).\[[paper](https://arxiv.org/abs/2004.13278)\]\[[code](https://github.com/salesforce/VD-BERT)\]\[[slide](https://yuewang-cuhk.github.io/file/vdbert_emnlp20_yue_resize.pdf)\]\[[zhihu](https://zhuanlan.zhihu.com/p/141605303)\]\[[video](https://virtual.2020.emnlp.org/paper_main.355.html)\]
 * **Yue Wang**, Jing Li, Michael Lyu and Irwin King. **Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings**. (**EMNLP2020**)\[[paper](https://arxiv.org/abs/2011.01565)\]\[[code](https://github.com/yuewang-cuhk/CMKP)\]\[[slide](https://yuewang-cuhk.github.io/file/cmkp_emnlp20_yue_resize.pdf)\]\[[video](https://virtual.2020.emnlp.org/paper_main.3088.html)\]
 * **Yue Wang**, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, Shuming Shi. **Topic-Aware Neural Keyphrase Generation for Social Media Language**. Florence, Italy (**ACL 2019**). \[[paper](https://www.aclweb.org/anthology/P19-1240)\]\[[code](https://github.com/yuewang-cuhk/TAKG)\]\[[poster](https://yuewang-cuhk.github.io/file/ACL2019_yuewang_final.pdf)\]
 * **Yue Wang**, Jing Li, Irwin King, Michael R. Lyu, Shuming Shi. **Microblog Hashtag Generation via Encoding Conversation Contexts**. Minneapolis, USA (**NAACL-HLT 2019**, Oral).  \[[paper](https://www.aclweb.org/anthology/N19-1164)\]\[[code](https://github.com/yuewang-cuhk/HashtagGeneration)\]\[[slide](https://yuewang-cuhk.github.io/file/naacl19_slide.pdf)\]\[[video](https://vimeo.com/364687803)\]
@@ -46,15 +46,16 @@ I am an applied scientist at Salesforce Research. Prior to that, I obtained my P
 * **Yue Wang**, Zibin Zheng, Michael R. Lyu. **Entropy-based Service Selection with Uncertain QoS for Mobile Cloud Computing**.  Hangzhou, China (**IEEE CIC 2015**). 
 
 ## Selected Awards
-* 2013, **National Scholarship** awarded by The Ministry of Education, China (Top 1)
+* 2013, National Scholarship awarded by The Ministry of Education, China (Top 1)
 * 2014, 2015, National Endeavor Fellowship awarded by The Ministry of Education, China (Top 3)
 * 2015, Honorable Mention in Mathematical Contest in Modeling
 * 2015, Third Prize in the 13th Guangdong Collegiate Programming Contest (ACM-ICPC GDCPC’2015)  
-* 2016, **Outstanding Graduate Student** of Sun Yat-sen University (Top 3) 
-* 2016-2020, **CUHK Postgraduate Student Scholarship**
+* 2016, Outstanding Graduate Student of Sun Yat-sen University (Top 3) 
+* 2016-2020, CUHK Postgraduate Student Scholarship
 
 ## Review Services
 \* denotes being a Reviewer, otherwise being a Subreviewer:
+* 2021: ACL\*, EMNLP\*
 * 2020: AAAI\*, TKDE\*, TIST\*, COLING\*, ICONIP\*, DSN, ACL
 * 2019: AAAI\*, EMNLP\*, NAACL, ACL, DSN 
 * 2018: EMNLP, IJCAI, IJCNN, ISSRE 

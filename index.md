@@ -3,15 +3,17 @@ layout: default
 ---
 
 # About Me
-I am an applied scientist at Salesforce Research. Prior to that, I obtained my Ph.D. degree at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/). My research interest focuses on applying *natural language processing* (NLP) techniques for better social media understanding as well as the intersection of NLP and *Computer Vision* (CV), e.g., multi-modal pretraining. See my [Google scholar](https://scholar.google.com/citations?user=iyxbtcEAAAAJ&hl=en) for more details. My Email: [wangyue2714@gmail.com](mailto:wangyue2714@gmail.com).
+I am an applied scientist at Salesforce Research. Prior to that, I obtained my Ph.D. degree at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/). My research interest focuses on *natural language processing* applications (e.g., social media analysis) and its intersections with *programming language processing* (e.g., code pretrained models) and *computer vision* (e.g., visual dialog). See my [Google scholar](https://scholar.google.com/citations?user=iyxbtcEAAAAJ&hl=en) for more details. My Email: [wangyue2714@gmail.com](mailto:wangyue2714@gmail.com).
 
 ## Research Interests
 * In general: Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
 * **Social Media Analysis**: Hashtag Annotation, Keyphrase Generation
 * **Vision and Language Understanding**: Visual Dialog, Vision-Language Pretraining, Cross-media Understanding
+* **Programming Language Processing**: Code Completion, Programming Language Pre-training
 
 
 ## Recent News
+* **Aug 2021**, our CodeT5 paper has been accepted by EMNLP 2021!
 * **April 2021**, research work during Amazon AI internship has been accepted by NAACL 2021 and ICASSP 2021
 * **Jan 2021**, join Salesforce Research Asia as an Applied Scientist
 * **01/12/2020**, I have passed my PHD oral thesis defense! The presentation slide is released at [here](https://yuewang-cuhk.github.io/file/thesis_slide_Yue_final_resize.pdf)
@@ -36,6 +38,8 @@ I am an applied scientist at Salesforce Research. Prior to that, I obtained my P
 * **Summer 2020**, _Applied Scientist Intern_, Amazon AWS AI Lab, California, USA. Mentor: [Marcello Federico](https://sites.google.com/site/marcellofedericohome/) and Hoang Cuong
 
 ## Publications 
+
+* **Yue Wang**, Weishi Wang, Shafiq Joty, and Steven C.H. Hoi. "**CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation**", (**EMNLP 2021**) \[[paper](https://arxiv.org/abs/2109.00859)\]\[[code](https://github.com/salesforce/CodeT5)\]\[[blog](https://blog.einstein.ai/codet5/)\]\[[media](https://venturebeat.com/2021/09/07/salesforces-codet5-system-can-understand-and-generate-code/)\]
 * **Yue Wang**, Cuong Hoang, and Marcello Federico. "**Towards Modeling the Style of Translators in Neural Machine Translation**". (**NAACL 2021**) \[[paper](https://www.amazon.science/publications/towards-modeling-the-style-of-translators-in-neural-machine-translation)\]
 * Surafel M Lakew, Marcello Federico, **Yue Wang**, Cuong Hoang, Yogesh Virkar, Roberto Barra-Chicote, Robert Enyedi. "**Machine Translation Verbosity Control for Automatic Dubbing**". (**ICASSP 2021**) \[[paper](https://ieeexplore.ieee.org/abstract/document/9414411)\]
 * **Yue Wang**, Shafiq Joty, Michael R. Lyu, Irwin King, Caiming Xiong, and Steven C.H. Hoi. **VD-BERT: A Unified Vision and Dialog Transformer with BERT**. (**EMNLP 2020**, our VD-BERT has been ranked No.1 in the [Visual Dialog leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/161/leaderboard/483) from 01/2020-05/2020).\[[paper](https://arxiv.org/abs/2004.13278)\]\[[code](https://github.com/salesforce/VD-BERT)\]\[[slide](https://yuewang-cuhk.github.io/file/vdbert_emnlp20_yue_resize.pdf)\]\[[zhihu](https://zhuanlan.zhihu.com/p/141605303)\]\[[video](https://virtual.2020.emnlp.org/paper_main.355.html)\]

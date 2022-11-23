@@ -3,19 +3,27 @@ layout: default
 ---
 
 # About Me
-I am an applied scientist at Salesforce Research. Prior to that, I obtained my Ph.D. degree at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/). My research interest focuses on *natural language processing* applications (e.g., social media analysis) and its intersections with *programming language processing* (e.g., code pretrained models) and *computer vision* (e.g., visual dialog). See my [Google scholar](https://scholar.google.com/citations?user=iyxbtcEAAAAJ&hl=en) for more details. My Email: [wangyue2714@gmail.com](mailto:wangyue2714@gmail.com).
+I am a research scientist at Salesforce Research. Prior to that, I obtained my Ph.D. degree at [The Chinese University of Hong Kong](http://www.cuhk.edu.hk), under the supervision of [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/). 
+I have rich research experience in both academia and industry with top-tier AI publications at NeurIPS, ACL, EMNLP, NAACL, IJCAI, and ICASSP and working experience at leading AI research labs such as Microsoft Research, Tencent AI, Amazon AWS AI, and Salesforce Research. 
+My research interest focuses on language model pretraining for code (CodeT5 & CodeRL), multimodal learning (e.g., visual dialog) and
+natural language processing applications (e.g., social media analysis).
+My passion is developing intelligent software solutions to improve programmers' productivity in the Salesforce ecosystem and beyond.
+
+See my [Google scholar](https://scholar.google.com/citations?user=iyxbtcEAAAAJ&hl=en) for more details. My Email: [wangyue2714@gmail.com](mailto:wangyue2714@gmail.com).
 
 ## Research Interests
-* In general: Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
+* In general: Deep Learning, Machine Learning for Code, Natural Language Processing, Multimodal Learning
+* **Programming Language Processing**: Code Understanding and Generation, Language Model Pretraining for Code
+* **Multimodal Learning**: Vision-Language Pretraining, Visual Dialog, Cross-media Understanding
 * **Social Media Analysis**: Hashtag Annotation, Keyphrase Generation
-* **Vision and Language Understanding**: Visual Dialog, Vision-Language Pretraining, Cross-media Understanding
-* **Programming Language Processing**: Code Completion, Programming Language Pre-training
 
 
 ## Recent News
+* **Nov 27 - Dec 01, 2022**, I will be attending NeurIPS 2022 in person in New Orleans, the USA
+* **Oct 2022**, our CodeRL paper has been accepted by NeurIPS 2022, and CodeT5-DLR has been accepted by EMNLP-findings 2022
 * **Aug 2021**, our CodeT5 paper has been accepted by EMNLP 2021!
 * **April 2021**, research work during Amazon AI internship has been accepted by NAACL 2021 and ICASSP 2021
-* **Jan 2021**, join Salesforce Research Asia as an Applied Scientist
+* **Jan 2021**, join Salesforce Research Asia as a Research Scientist
 * **01/12/2020**, I have passed my PHD oral thesis defense! The presentation slide is released at [here](https://yuewang-cuhk.github.io/file/thesis_slide_Yue_final_resize.pdf)
 * **24/11/2020**, our cross-media keyphrase prediction (CMKP) code has been released at [here](https://github.com/yuewang-cuhk/CMKP)
 * **08/10/2020**, our VD-BERT code has been released at [here](https://github.com/salesforce/VD-BERT)
@@ -26,7 +34,7 @@ I am an applied scientist at Salesforce Research. Prior to that, I obtained my P
 * **30/05/2019**, attend NAACL 2019 in Minneapolis, USA
 
 ## Education
-* **2016-2020**, Ph.D. candidate, The Chinese University of Hong Kong, [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk). Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/)
+* **2016-2020**, Ph.D. candidate, The Chinese University of Hong Kong, [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk).   Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/)
 * **2012-2016**, B.Sci., Sun Yat-sen University, [School of Data and Computer Science](http://sdcs.sysu.edu.cn/). GPA: 3.94/4.00 (Top 3)
 
 ## Experience
@@ -34,11 +42,12 @@ I am an applied scientist at Salesforce Research. Prior to that, I obtained my P
 * **Spring 2016**, _Visiting Student_, Department of Electrical and Computer Engineering@Brigham Young University, Utah, USA. Advisor: [Prof. Brent Nelson](https://ece.byu.edu/faculty/brent_nelson)
 * **Summer 2017**, _Project Collaborator_, 2012 Lab@Huawei, Shenzhen
 * **Summer 2018**, _Research Intern_, NLP Center@Tencent AI Lab, Shenzhen. Mentor: [Prof. Jing Li](http://www4.comp.polyu.edu.hk/~jing1li/)
-* **Summer 2019**, _Research Intern_, Salesforce Research Asia, Singapore. Mentor: [Prof. Steven Hoi](https://sites.google.com/view/stevenhoi/home) and [Prof. Shafiq Rayhan Joty](https://raihanjoty.github.io/)
+* **Summer 2019**, _Research Intern_, Salesforce Research, Singapore. Mentor: [Prof. Steven Hoi](https://sites.google.com/view/stevenhoi/home) and [Prof. Shafiq Rayhan Joty](https://raihanjoty.github.io/)
 * **Summer 2020**, _Applied Scientist Intern_, Amazon AWS AI Lab, California, USA. Mentor: [Marcello Federico](https://sites.google.com/site/marcellofedericohome/) and Hoang Cuong
 
 ## Publications 
-
+* Hung Le\*, **Yue Wang**\*, Akhilesh Deepak Gotmare, Silvio Savarese, Steven Hoi. "**CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning**", (**NeurIPS 2022**) \[[paper](https://arxiv.org/abs/2109.00859)\]\[[code](https://github.com/salesforce/CodeRL)\]\[[blog](https://blog.salesforceairesearch.com/coderl)\]\[[media](https://aisupremacy.substack.com/p/what-is-salesforces-coderl)\] (\* equal contribution)
+* Nghi D. Q. Bui, **Yue Wang**, Steven Hoi. **Detect-Localize-Repair: A Unified Framework for Learning to Debug with CodeT5**. (**EMNLP2022 Findings**)
 * **Yue Wang**, Weishi Wang, Shafiq Joty, and Steven C.H. Hoi. "**CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation**", (**EMNLP 2021**) \[[paper](https://arxiv.org/abs/2109.00859)\]\[[code](https://github.com/salesforce/CodeT5)\]\[[blog](https://blog.salesforceairesearch.com/codet5/)\]\[[media](https://venturebeat.com/2021/09/07/salesforces-codet5-system-can-understand-and-generate-code/)\]\[[slide](https://yuewang-cuhk.github.io/file/CodeT5_final_slide_p20.pdf)\]\[[poster](https://yuewang-cuhk.github.io/file/CodeT5_Poster.pdf)\]
 * **Yue Wang**, Cuong Hoang, and Marcello Federico. "**Towards Modeling the Style of Translators in Neural Machine Translation**". (**NAACL 2021**) \[[paper](https://www.amazon.science/publications/towards-modeling-the-style-of-translators-in-neural-machine-translation)\]
 * Surafel M Lakew, Marcello Federico, **Yue Wang**, Cuong Hoang, Yogesh Virkar, Roberto Barra-Chicote, Robert Enyedi. "**Machine Translation Verbosity Control for Automatic Dubbing**". (**ICASSP 2021**) \[[paper](https://ieeexplore.ieee.org/abstract/document/9414411)\]
@@ -57,28 +66,16 @@ I am an applied scientist at Salesforce Research. Prior to that, I obtained my P
 * 2016, Outstanding Graduate Student of Sun Yat-sen University (Top 3) 
 * 2016-2020, CUHK Postgraduate Student Scholarship
 
-## Review Services
-\* denotes being a Reviewer, otherwise being a Subreviewer:
-* 2021: ACL\*, EMNLP\*
-* 2020: AAAI\*, TKDE\*, TIST\*, COLING\*, ICONIP\*, DSN, ACL
-* 2019: AAAI\*, EMNLP\*, NAACL, ACL, DSN 
-* 2018: EMNLP, IJCAI, IJCNN, ISSRE 
-* 2017: NIPS, SIGIR
+## Professtional Services
+* Journal Reviewer: TKDE, TIST, TOSEM
+* Conference Reviewer: EMNLP2019, AAAI2019, AAAI2020, COLING2020, ICONIP2020, ACL2021, EMNLP2021, ARR 2022
+* Conference Subreviewer: NIPS2017, SIGIR2017, EMNLP2018, IJCAI2018, NAACL2019, ACL2019, ACL2020, EMNLP2020
+* Attended Conferences: ICSE2018, International PhD Forum 2018, NAACL2019, ACL2019, EMNLP2020, EMNLP2021, NeurIPS 2022
 
-## Skills
-* Programming Language: Python (most frequently used), C/C++/C#, Java, Matlab, Bash
-* Tools: Linux, Git, Vim, Latex, Google Cloud Platform, AWS, Deep Learning Frameworks (Pytorch > Keras > TensorFlow)
-* Deep Learning Models: CNN, RNN, Transformer, BERT, Seq2seq, Memory Networks, Variational Auto-Encoders
-* Languages: English (professional), Chinese (native), Cantonese (basic)
+## Hobbies
+* Playing badminton/tennis/table tennis, hiking/cycling/swimming, drone video making
+* Volunteer activities: I co-founded [_Batou volunteer association_](https://mp.weixin.qq.com/s/42OKBVeQeZw6ujNI35r9jg) (Shantou, China) in summer 2013. We offer free tutoring to high school students each summer in my hometown. More than **1000** students have been served until now.
 
-
-## Teaching Assistance
-* ENGG1000: IT Workshop about Advanced Excel (2018-2019)
-* CSCI1510: Computer Principles and C Programming (Spring 2019)
-* CSCI1120: Introduction to Computing Using C++ (Fall 2018)
-* CSCI4140: Open-source Software Project Development (Spring 2018)
-* ENGG1410A: Linear Algebra and Vector Calculus for Engineers (Spring 2017)
-* ENGG2440A: Discrete Mathematics for Engineers	(Fall 2016)
 
 ## Some Useful Links
 * Paper Reading: [S. Keshav's advice](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
@@ -88,7 +85,3 @@ I am an applied scientist at Salesforce Research. Prior to that, I obtained my P
   - [Common bugs in writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 * [How to write a godd rebuttal?](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)  
 * [_A report on me_](https://mp.weixin.qq.com/s/f0lpTI4LJPUXmZcIKofDlQ) from an official association at Sun Yat-sen University
-
-## Hobbies
-* Sports: playing badminton, swimming, hiking
-* Volunteer activities: I co-founded [_Batou volunteer association_](https://mp.weixin.qq.com/s/42OKBVeQeZw6ujNI35r9jg) (Shantou, China) in summer 2013. We offer free tutoring to high school students each summer in my hometown. More than **1000** students have been served until now.
